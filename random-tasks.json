@@ -1,6 +1,6 @@
 {
-    lastId: 20,
-    tasks: [
+    "lastId": "20",
+    "tasks": [
             {"id":1,"name":"5sP7RP0NB9cvdYpUSTz8","completed":true},
             {"id":2,"name":"E7WMssjFcD5qv2V4IsP2","completed":false},
             {"id":3,"name":"0gABCOlaQ4EHeTvthCkE","completed":false},
